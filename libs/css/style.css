@@ -1,0 +1,153 @@
+/* There was no need for css
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  #header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333; 
+    color: #fff;
+    padding: 10px 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    z-index: 1000; 
+  }
+  
+  
+  .tab-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px 4px 0 0;
+    margin-right: 5px;
+  }
+  
+  .tab-btn.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .tab-content {
+    display: none;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 0 0 4px 4px;
+    min-height: 200px;
+  }
+  
+  .tab-content.active {
+    display: block;
+  }
+  
+  
+  #btnRun {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  #btnRun:hover {
+    background-color: #45a049;
+  }
+  
+  #btnRun:focus {
+    outline: none;
+  }
+  
+  table {
+    margin-top: 20px;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    .tabs {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .tab-btn {
+      padding: 10px 20px;
+      background-color: #f2f2f2;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .tab-btn.active {
+      background-color: #ccc;
+    }
+
+    .tab-content {
+      display: none;
+    }
+
+    .tab-content.active {
+      display: block;
+      margin-top: 20px;
+    }
+
+    .submit-btn {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      font-size: 14px;
+      border-radius: 4px;
+      transition: background-color 0.3s;
+    }
+
+    .submit-btn:hover {
+      background-color: #45a049;
+    }
+
+   
+    body {
+      margin: 0;
+      padding: 0;
+    } */
+
+  
